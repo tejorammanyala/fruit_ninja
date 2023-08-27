@@ -90,7 +90,7 @@ def show_gameover_screen():
             if event.type == pygame.KEYUP:
                 waiting = False
 
-# Game Loop
+# Game Loop starts here
 first_round = True
 game_over = True        #terminates the game While loop if more than 3-Bombs are cut
 game_running = True     #used to manage the game loop
