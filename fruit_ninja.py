@@ -1,4 +1,4 @@
-#fruit ninja game 
+#fruit game 
 import pygame, sys
 import os
 import random
